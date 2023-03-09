@@ -23,6 +23,7 @@ This project was created using Power BI Desktop and Power BI Service.
 ![Sum of Sales by Category](https://user-images.githubusercontent.com/101935380/224082234-616d6814-662c-4b2c-99c4-4838759d2904.jpg)
 
 **Sales by Product Name**
+
 ![Sales by Product Name](https://user-images.githubusercontent.com/101935380/224082738-c63bbdfe-f6c3-42e9-98ad-cb79a2328bd4.jpg)
 
 
